@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @Dec24th
-- 👀 I’m interested in running, learning as much as I can about coding, owning my own coffee shop someday.
-- 🌱 I’m currently learning as much as I can; Golang.
-- 💞️ I’m looking to collaborate on a few projects. Coffee shop e-commerce would be fun. I've always wanted to own a coffee shop.
-- 📫 How to reach me: message me here, or fmoss3 on ig. linkedin: /allanacostaallanacosta
+👋 Sup. I’m <b>Allan Acosta!</b> Fairly new to coding, not old to learning.
+
+🦾 I’m currently learning as much as I can; but I'm going to focus on <b>React </b>but<b> React Native</b> is cool, too. So is <b>Go!</b>
+
+🌱<i> Immediate Goals:</i> Learn React. Master React. Do React projects. Gimme. Gimme. Gimme!
+
+🌿 <i>2022 Goals:</i> get employment as a React developer. Or anywhere actually!
+
+🌳 <i>Long Term Goals:</i> ‟I see you, <b>Google!</b> I see you <b>Facebook!</b> Looking at you <b> Goldman Sachs</b>, too!”
+
+🏃‍♂ <i>Fun Facts:</i> I'm a marathon runner, I've a cat named Pluto, and I love astronomy
+
+📫 <i>Contact:</i> acosta.gov@gmail.com || <b>Instagram:</b> @fmoss3 || <b>LinkedIn:</b> /allanacostaallanacosta
 
 <!---
 Dec24th/Dec24th is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
