@@ -2,6 +2,8 @@
 
 🦾 I’m currently learning as much as I can; but I'm going to focus on <b>React </b>but<b> React Native</b> is cool, too. So is <b>Go!</b>
 
+⚒️ Projects: Frank Sinatra Statue Website: Check it out: <a href="https://successful-park.surge.sh">successful-park.surge.sh</a> (It's a work in progress)
+
 🌱<i> Immediate Goals:</i> Learn React. Master React. Do React projects. Gimme. Gimme. Gimme!
 
 🌿 <i>2022 Goals:</i> get employment as a React developer. Or anywhere actually!
