@@ -1,8 +1,9 @@
 👋 Sup. I’m <b>Allan Acosta!</b> Fairly new to coding, not old to learning.
 
-🦾 I’m currently learning as much as I can; but I'm going to focus on <b>React </b>but<b> React Native</b> is cool, too. So is <b>Go!</b>
+🦾 I’m currently learning as much as I can; but I'm going to focus on <b>React </b>but<b> React Native</b> is cool, too.</b>
 
-⚒️ Projects: Frank Sinatra Statue Website: Check it out: <a href="https://successful-park.surge.sh">successful-park.surge.sh</a> (It's a work in progress)
+⚒️ <a href="https://allan-acosta.surge.sh" target="_blank"> Check out my portfolio, please!</a> There, you will see what I'm working on. ⚒️
+FEEDBACK IS WELCOME!
 
 🌱<i> Immediate Goals:</i> Learn React. Master React. Do React projects. Gimme. Gimme. Gimme!
 
