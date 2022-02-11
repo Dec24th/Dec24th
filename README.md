@@ -1,15 +1,15 @@
-👋 Sup. I’m <b>Allan Acosta!</b> Fairly new to coding, not old to learning.
+👋 Sup. I’m <b>Allan Acosta!</b> New to tech, not old to learning. Coming out of real estate.
 
-🦾 I’m currently learning as much as I can; but I'm going to focus on <b>React </b>but<b> React Native</b> is cool, too.</b>
+🦾 I’m currently learning as much as I can; but I'm going to focus on <b>React </b>but<b> Full Stack</b> is cool, too.</b>
 
 ⚒️ <a href="https://allan-acosta.surge.sh" target="_blank"> Check out my portfolio, please!</a> There, you will see what I'm working on. ⚒️
-FEEDBACK IS WELCOME!
+FEEDBACK IS WELCOME! 
 
-🌱<i> Immediate Goals:</i> Learn React. Master React. Do React projects. Gimme. Gimme. Gimme!
+🌱<i> Immediate Goals:</i> Learn learn learn. Master CSS, Node, React. Do MERN projects. Gimme. Gimme. Gimme!
 
-🌿 <i>2022 Goals:</i> get employment as a React developer. Or anywhere actually!
+🌿 <i>2022 Goals:</i> get employment as a React developer, or Full Stack Developer. Or anywhere actually!
 
-🌳 <i>Long Term Goals:</i> ‟I see you, <b>Google!</b> I see you <b>Facebook!</b> Looking at you <b> Goldman Sachs</b>, too!”
+🌳 <i>Long Term Goals:</i> ‟I see you, <b>Google!</b> I see you <b>Facebook!</b>. One day...”
 
 🏃‍♂ <i>Fun Facts:</i> I'm a marathon runner, I've a cat named Pluto, and I love astronomy
 
