@@ -11,7 +11,7 @@ FEEDBACK IS WELCOME!
 
 🌳 <i>Long Term Goals:</i> ‟I see you, <b>Google!</b> I see you <b>Facebook!</b>. One day...”
 
-🏃‍♂ <i>Fun Facts:</i> I'm a marathon runner, I've a cat named Pluto, and I love astronomy
+🏃‍♂ <i>Fun Facts:</i> I'm a marathon runner. I've a cat named Pluto.
 
 📫 <i>Contact:</i> acosta.gov@gmail.com || <b>Instagram:</b> @fmoss3 || <b>LinkedIn:</b> /allanacostaallanacosta
 
